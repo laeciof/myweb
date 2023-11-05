@@ -1,0 +1,19 @@
+#contenedor-slider {
+        position: absolute;
+        margin-top: 50px;       
+        width:480px;
+        height:270px;
+        box-shadow: 0 0 0 10px #f2ebdf, 0 15px 50px;
+}
+
+ #content {
+       align-content: center;
+        position: absolute;
+       
+        padding-top: 10px;
+        color: #536058;
+        text-shadow: #2a2929 2px 2px 2px;
+        font-family: Arial; 
+        font-size:14px;
+        max-width:480px;    
+   }

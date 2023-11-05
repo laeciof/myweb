@@ -1,0 +1,8 @@
+.image{
+    -webkit-filter:grayscale(100%);
+}
+.image:hover{
+    -webkit-filter:grayscale(0%);
+    transition: 1s;
+}
+
